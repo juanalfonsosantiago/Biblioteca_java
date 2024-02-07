@@ -1,0 +1,40 @@
+isbn1
+la biblia
+1
+juan
+santiago lopez
+isbn2
+el coran
+2
+andrea
+de la fuente agraz
+isbn1
+la biblia
+1
+juan
+santiago lopez
+isbn2
+el coran
+2
+andrea
+de la fuente agraz
+isbn3
+india
+3
+jorge
+surizar sanchez
+isbn1
+la biblia
+1
+juan
+santiago lopez
+isbn2
+el coran
+2
+andrea
+de la fuente agraz
+isbn3
+india
+3
+jorge
+surizar sanchez
